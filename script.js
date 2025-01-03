@@ -12,14 +12,14 @@ document.addEventListener("DOMContentLoaded", () => {
         const randomQuote = quotes[randomIndex];
   
         if (randomQuote && randomQuote.text && randomQuote.author) {
-          document.getElementById("quote").textContent = `"${randomQuote.text}"`;
+          document.getElementById("text").textContent = `"${randomQuote.text}"`;
           document.getElementById("author").textContent = `— ${randomQuote.author}`;
         } else {
           throw new Error("Invalid quote format");
         }
       } catch (error) {
         console.error("Error fetching quotes:", error);
-        document.getElementById("quote").textContent = "Could not load a quote.";
+        document.getElementById("text").textContent = "Could not load a quote.";
         document.getElementById("author").textContent = "";
       }
     }
