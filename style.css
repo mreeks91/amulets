@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #f4f4f9;
+    background-color: white;
   }
   
   .container {
@@ -37,7 +37,6 @@ body {
   
   blockquote {
     font-size: 1.5em;
-    font-style: italic;
     margin: 20px 0;
   }
   
