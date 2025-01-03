@@ -1,127 +1,127 @@
 [
 	{
-	"Quote": "We do not obtain the most precious gifts by going in search of them but by waiting for them.",
-	"Author":"Simone Weil"
+	"text": "We do not obtain the most precious gifts by going in search of them but by waiting for them.",
+	"author":"Simone Weil"
 	},
-	{"Quote": "You could not be born at a better time than the present, when we have lost everything.",
-	"Author":"Simone Weil"},
-	{"Quote": "Whenever I have encountered any kind of deep problem with civilization anywhere in the world [...] somewhere at the end of the long chain of events that gave rise to the problem at issue I have always found one and the same cause: a lack of accountability to and responsibility for the world.",
-	"Author": "Václav Havel"},
-	{"Quote": "We live the given life, and not the planned." ,
-	"Author": "Wendell Berry"},
-	{"Quote": "I have used the word ‘attention’, which I borrow from Simone Weil, to express the idea of a just and loving gaze directed upon an individual reality. I believe this to be the characteristic and proper mark of the moral agent." ,
-	"Author":"Irish Murdoch"},
-	{"Quote": "Learned and leisurely hospitality is the only antidote to the stance of deadly cleverness that is acquired in the professional pursuit of objectively secured knowledge. I remain certain that the quest for truth cannot thrive outside the nourishment of mutual trust flowering into a commitment to friendship." ,
-	"Author": "Ivan Ilich"},
+	{"text": "You could not be born at a better time than the present, when we have lost everything.",
+	"author":"Simone Weil"},
+	{"text": "Whenever I have encountered any kind of deep problem with civilization anywhere in the world [...] somewhere at the end of the long chain of events that gave rise to the problem at issue I have always found one and the same cause: a lack of accountability to and responsibility for the world.",
+	"author": "Václav Havel"},
+	{"text": "We live the given life, and not the planned." ,
+	"author": "Wendell Berry"},
+	{"text": "I have used the word ‘attention’, which I borrow from Simone Weil, to express the idea of a just and loving gaze directed upon an individual reality. I believe this to be the characteristic and proper mark of the moral agent." ,
+	"author":"Irish Murdoch"},
+	{"text": "Learned and leisurely hospitality is the only antidote to the stance of deadly cleverness that is acquired in the professional pursuit of objectively secured knowledge. I remain certain that the quest for truth cannot thrive outside the nourishment of mutual trust flowering into a commitment to friendship." ,
+	"author": "Ivan Ilich"},
 
-	{"Quote": "I do think that if I had to choose one word to which hope can be tied, it is hospitality." ,
-	"Author": "Ivan Ilich"},
+	{"text": "I do think that if I had to choose one word to which hope can be tied, it is hospitality." ,
+	"author": "Ivan Ilich"},
 
-	{"Quote": "Technology has become too serious a matter to be left to technicians.",
-	"Author": "Vilém Flusser"},
+	{"text": "Technology has become too serious a matter to be left to technicians.",
+	"author": "Vilém Flusser"},
 
-	{"Quote": "Everything not saved will be lost.",
-	"Author": "Nintendo Switch App Launcher"},
+	{"text": "Everything not saved will be lost.",
+	"author": "Nintendo Switch App Launcher"},
 
-	{"Quote": "If we want to save the land, we must save the people who belong to the land. If we want to save the people, we must save the land the people belong to."  ,
-	"Author": "Wendell Berry"},
+	{"text": "If we want to save the land, we must save the people who belong to the land. If we want to save the people, we must save the land the people belong to."  ,
+	"author": "Wendell Berry"},
 
-	{"Quote":"I really only want to say that we may love a place and still be a danger to it." ,
-	"Author": "Wallace Stegner"},
+	{"text":"I really only want to say that we may love a place and still be a danger to it." ,
+	"author": "Wallace Stegner"},
 
-	{"Quote": "To be healthy is literally to be whole; to heal is to make whole." ,
-	"Author": "Wendell Berry"},
+	{"text": "To be healthy is literally to be whole; to heal is to make whole." ,
+	"author": "Wendell Berry"},
 
-	{"Quote": "Not blind opposition to progress, but opposition to blind progress.",
-	"Author": "John Muir"},
+	{"text": "Not blind opposition to progress, but opposition to blind progress.",
+	"author": "John Muir"},
 
-	{"Quote": "The world is full of magic things, patiently waiting for our senses to grow sharper.",
-	"Author": "W.B. Yeats"},
+	{"text": "The world is full of magic things, patiently waiting for our senses to grow sharper.",
+	"author": "W.B. Yeats"},
 
-	{"Quote": "The ultimate hidden truth of the world is that it is something we make and could just as easily make differently." ,
-	"Author": "David Graever"},
+	{"text": "The ultimate hidden truth of the world is that it is something we make and could just as easily make differently." ,
+	"author": "David Graever"},
 
-	{"Quote": "Imagine others complexly.",
-	"Author": "John Green"},
+	{"text": "Imagine others complexly.",
+	"author": "John Green"},
 
-	{"Quote": "I chose, and my world was shaken\nSo what?\nThe choice may have been mistaken,\nThe choosing was not\nYou have to move on",
-	"Author": "Stephen Sondheim"},
+	{"text": "I chose, and my world was shaken\nSo what?\nThe choice may have been mistaken,\nThe choosing was not\nYou have to move on",
+	"author": "Stephen Sondheim"},
 
-	{"Quote": "There is no wealth but life" ,
-	"Author": "John Ruskin"},
+	{"text": "There is no wealth but life" ,
+	"author": "John Ruskin"},
 
-	{"Quote": "Only once we imagined the world as dead could we dedicate ourselves to making it so.",
-	"Author": "Ben Ehrenreich"},
+	{"text": "Only once we imagined the world as dead could we dedicate ourselves to making it so.",
+	"author": "Ben Ehrenreich"},
 
-	{"Quote": "These are urgent times, so slow down.",
-	"Author": "Bayo Akomalafe"},
+	{"text": "These are urgent times, so slow down.",
+	"author": "Bayo Akomalafe"},
 
-	{"Quote": "The knowledge imposes a pattern, and falsifies,\nFor the pattern is new in every moment\nAnd every moment is a new and shocking\nValuation of all we have been.",
-	"Author": "TS Eliot"},
+	{"text": "The knowledge imposes a pattern, and falsifies,\nFor the pattern is new in every moment\nAnd every moment is a new and shocking\nValuation of all we have been.",
+	"author": "TS Eliot"},
 
-	{"Quote": "Ultimately we have just one moral duty: to reclaim large areas of peace in ourselves, more and more peace, and to reflect it toward others. And the more peace there is in us, the more peace there will also be in our troubled world.",
-	"Author": "Etty Hillesum"},
+	{"text": "Ultimately we have just one moral duty: to reclaim large areas of peace in ourselves, more and more peace, and to reflect it toward others. And the more peace there is in us, the more peace there will also be in our troubled world.",
+	"author": "Etty Hillesum"},
 
-	{"Quote": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
-	"Author": "Viktor Frankl"},
+	{"text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
+	"author": "Viktor Frankl"},
 
-	{"Quote": "That which is hateful to you, do not do to your fellow. That is the entire Torah, and the rest is commentary. Now go and study.",
-	"Author": "Hillel the Elder"},
+	{"text": "That which is hateful to you, do not do to your fellow. That is the entire Torah, and the rest is commentary. Now go and study.",
+	"author": "Hillel the Elder"},
 
-	{"Quote": "What are all these fragments for, if not to be knit up finally?" ,
-	"Author": "Marilynne Robinson"},
+	{"text": "What are all these fragments for, if not to be knit up finally?" ,
+	"author": "Marilynne Robinson"},
 
-	{"Quote": "Though much is taken, much abides.",
-	"Author": "Alfred Lord Tennyson"},
+	{"text": "Though much is taken, much abides.",
+	"author": "Alfred Lord Tennyson"},
 
-	{"Quote": "'You don’t ever have to say anything,' he says. 'Always remember that as a thing you need never do. Many’s the man lost much just because he missed a perfect opportunity to say nothing.'",
-	"Author": "Claire Keegan"},
+	{"text": "'You don’t ever have to say anything,' he says. 'Always remember that as a thing you need never do. Many’s the man lost much just because he missed a perfect opportunity to say nothing.'",
+	"author": "Claire Keegan"},
 
-	{"Quote": "I believe I know the only cure, which is to make one’s center of life inside of one’s self, not selfishly or excludingly, but with a kind of unassailable serenity—to decorate one’s inner house so richly that one is content there, glad to welcome anyone who wants to come and stay, but happy all the same when one is inevitably alone." ,
-	"Author": "Edith Wharton"},
+	{"text": "I believe I know the only cure, which is to make one’s center of life inside of one’s self, not selfishly or excludingly, but with a kind of unassailable serenity—to decorate one’s inner house so richly that one is content there, glad to welcome anyone who wants to come and stay, but happy all the same when one is inevitably alone." ,
+	"author": "Edith Wharton"},
 
-	{"Quote":"And what of regrets? I shall live with them. I shall accept my regrets as part of my life, to be numbered among my self-inflicted wounds. But I will not endlessly gaze at them. I shall allow the memories to prod me into doing better with those still living. And I shall allow them to sharpen the vision and intensify the hope for that Great Day coming when we can all throw ourselves into each other's arms and say, 'I'm sorry.'" ,
-	"Author": "Nicholas Wolterstorff"},
+	{"text":"And what of regrets? I shall live with them. I shall accept my regrets as part of my life, to be numbered among my self-inflicted wounds. But I will not endlessly gaze at them. I shall allow the memories to prod me into doing better with those still living. And I shall allow them to sharpen the vision and intensify the hope for that Great Day coming when we can all throw ourselves into each other's arms and say, 'I'm sorry.'" ,
+	"author": "Nicholas Wolterstorff"},
 
-	{"Quote": "On two occasions I have been asked, 'Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?' ... I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question." ,
-	"Author": "Charles Babbage"},
+	{"text": "On two occasions I have been asked, 'Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?' ... I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question." ,
+	"author": "Charles Babbage"},
 
-	{"Quote": "When a biological system comes under pressure, the way to make it more healthy is to connect more of it to itself" ,
-	"Author": "Francisco Varela"},
+	{"text": "When a biological system comes under pressure, the way to make it more healthy is to connect more of it to itself" ,
+	"author": "Francisco Varela"},
 
-	{"Quote": "Chance favours the prepared mind." ,
-	"Author": "Louis Pasteur"},
+	{"text": "Chance favours the prepared mind." ,
+	"author": "Louis Pasteur"},
 
-	{"Quote": "Sometimes magic is almost nothing." ,
-	"Author": "Zinedine Zidane"},
+	{"text": "Sometimes magic is almost nothing." ,
+	"author": "Zinedine Zidane"},
 
-	{"Quote": "Schism in the soul, schism in the body social, will not be resolved by any scheme of return to the good old days, or by programs guaranteed to render an ideal projected future, or even by the most realistic, hardheaded work to weld together again the deteriorating elements. Only birth can conquer death - the birth, not of the old thing again, but of something new.",
-	"Author": "A. Toynbee"},
+	{"text": "Schism in the soul, schism in the body social, will not be resolved by any scheme of return to the good old days, or by programs guaranteed to render an ideal projected future, or even by the most realistic, hardheaded work to weld together again the deteriorating elements. Only birth can conquer death - the birth, not of the old thing again, but of something new.",
+	"author": "A. Toynbee"},
 
-	{"Quote": "The lesson which life repeats and constantly enforces is 'Look under foot.'" ,
-	"Author": "John Burroughs"},
+	{"text": "The lesson which life repeats and constantly enforces is 'Look under foot.'" ,
+	"author": "John Burroughs"},
 
-	{"Quote":"Man is an animal suspended in webs of significance that he himself has spun." ,
-	"Author": "Clifford Geertz"},
+	{"text":"Man is an animal suspended in webs of significance that he himself has spun." ,
+	"author": "Clifford Geertz"},
 
-	{"Quote":"Life is an error making and error correcting process, and nature in marking man’s papers will grade him on wisdom as measured both by survival and the quality of life of those who survive." ,
-	"Author": "Jonas Salk"},
+	{"text":"Life is an error making and error correcting process, and nature in marking man’s papers will grade him on wisdom as measured both by survival and the quality of life of those who survive." ,
+	"author": "Jonas Salk"},
 
-	{"Quote":"Perhaps this is the same narrowing we observe in relation to ourselves and the tide pool - a man looking at reality brings his own limitations to the world. If he has strength and energy of mind the tide pool stretches both ways, digs back into electrons and leaps space into the universe and fights out the moment into non-conceptual time. Then ecology has a synonym which is ALL." ,
-	"Author": "John Steinbeck"},
+	{"text":"Perhaps this is the same narrowing we observe in relation to ourselves and the tide pool - a man looking at reality brings his own limitations to the world. If he has strength and energy of mind the tide pool stretches both ways, digs back into electrons and leaps space into the universe and fights out the moment into non-conceptual time. Then ecology has a synonym which is ALL." ,
+	"author": "John Steinbeck"},
 
-	{"Quote":"Time is a river which sweeps me along, but I am the river; it is a tiger which destroys me, but I am the tiger; it is a fire which consumes me, but I am the fire." ,
-	"Author": "Jorge Luis Borges"},
+	{"text":"Time is a river which sweeps me along, but I am the river; it is a tiger which destroys me, but I am the tiger; it is a fire which consumes me, but I am the fire." ,
+	"author": "Jorge Luis Borges"},
 
-	{"Quote":"She knew that in the end you really can't know. You can't get hold of the world. You can only draw a picture. Whether it’s a bull on the wall of a cave or a partial differential equation it’s all the same thing." ,
-	"Author": "Cormac McCarthy"},
+	{"text":"She knew that in the end you really can't know. You can't get hold of the world. You can only draw a picture. Whether it’s a bull on the wall of a cave or a partial differential equation it’s all the same thing." ,
+	"author": "Cormac McCarthy"},
 
-	{"Quote": "Enchantment is just the measure of the quality of our attention.",
-	"Author": "LM Sacasas"},
+	{"text": "Enchantment is just the measure of the quality of our attention.",
+	"author": "LM Sacasas"},
 
-	{"Quote":"Many an object is not seen, though it falls within our range of visual ray, because it does not come within the range of our intellectual ray, i.e. we are not looking for it. So, in the largest sense, we find only the world we look for." ,
-	"Author": "Henry David Thoreau"},
+	{"text":"Many an object is not seen, though it falls within our range of visual ray, because it does not come within the range of our intellectual ray, i.e. we are not looking for it. So, in the largest sense, we find only the world we look for." ,
+	"author": "Henry David Thoreau"},
 
-	{"Quote": "I've been thinking about seeing. There are lots of things to see, unwrapped gifts and free surprises. The world is fairly studded and strewn with pennies cast broadside from a generous hand. But -- and this is the point -- who gets excited by a mere penny? If you follow one arrow, if you crouch motionless on a bank to watch a tremulous ripple thrill on the water and are rewarded by the sight of a muskrat kit paddling from its den, will you count that sight a chip of copper only, and go your rueful way? It is dire poverty indeed when a man is so malnourished and fatigued that he won't stoop to pick up a penny. But if you cultivate a healthy poverty and simplicity, so that finding a penny will literally make your day, then, since the world is in fact planted in pennies, you have with your poverty bought a lifetime of days.",
-	"Author": "Annie Dillard"}
+	{"text": "I've been thinking about seeing. There are lots of things to see, unwrapped gifts and free surprises. The world is fairly studded and strewn with pennies cast broadside from a generous hand. But -- and this is the point -- who gets excited by a mere penny? If you follow one arrow, if you crouch motionless on a bank to watch a tremulous ripple thrill on the water and are rewarded by the sight of a muskrat kit paddling from its den, will you count that sight a chip of copper only, and go your rueful way? It is dire poverty indeed when a man is so malnourished and fatigued that he won't stoop to pick up a penny. But if you cultivate a healthy poverty and simplicity, so that finding a penny will literally make your day, then, since the world is in fact planted in pennies, you have with your poverty bought a lifetime of days.",
+	"author": "Annie Dillard"}
 ]
