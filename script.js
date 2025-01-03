@@ -29,8 +29,5 @@ document.addEventListener("DOMContentLoaded", () => {
     if (newQuoteButton) {
       newQuoteButton.addEventListener("click", fetchRandomQuote);
     }
-  
-    // Fetch a random quote on page load
-    fetchRandomQuote();
   });
   
