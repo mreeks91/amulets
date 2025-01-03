@@ -8,11 +8,11 @@ async function fetchRandomQuote() {
     const randomQuote = quotes[randomIndex];
 
     // Display the quote text and author
-    document.getElementById("Quote").textContent = `"${randomQuote.text}"`;
-    document.getElementById("Author").textContent = `— ${randomQuote.author}`;
+    document.getElementById("quote").textContent = `"${randomQuote.text}"`;
+    document.getElementById("author").textContent = `— ${randomQuote.author}`;
   } catch (error) {
-    document.getElementById("Quote").textContent = "Could not load a quote. Try again later!";
-    document.getElementById("Author").textContent = "";
+    document.getElementById("quote").textContent = "Could not load a quote. Try again later!";
+    document.getElementById("author").textContent = "";
   }
 }
 
